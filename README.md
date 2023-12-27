@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <a href="https://github.com/Atlas-OS/Atlas">
+    <a href="https://github.com/Atlas-OS/Atlas" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/78708182" width="40" height="40" alt="Atlas OS">
     </a>
   <br><br>
-  <a href="https://www.sublimetext.com/">
+  <a href="https://www.sublimetext.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="40" height="40" alt="Sublime Text 4">
     </a>
     &nbsp;&nbsp;
-    <a href="https://visualstudio.microsoft.com/fr/downloads/">
+    <a href="https://visualstudio.microsoft.com/fr/downloads/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="40" height="40" alt="Visual Studio">
     </a>
   <br><br>
-    <a href="https://github.com/PowerShell/PowerShell/">
+    <a href="https://github.com/PowerShell/PowerShell/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="40" height="40" alt="PowerShell 7 Logo">
     </a>
 </p>
