@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <a href="https://github.com/Atlas-OS/Atlas" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/78708182" width="40" height="40" alt="Atlas OS">
+    <a href="https://www.microsoft.com/software-download/windows11" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" width="40" height="40" alt="Windows 11">
     </a>
   <br><br>
   <a href="https://www.sublimetext.com/" target="_blank">
